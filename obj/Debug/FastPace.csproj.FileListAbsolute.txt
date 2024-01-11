@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\FastPace\FastPace\bin\Debug\FastPace.exe.config
+C:\Users\HP\source\repos\FastPace\FastPace\bin\Debug\FastPace.exe
+C:\Users\HP\source\repos\FastPace\FastPace\bin\Debug\FastPace.pdb
+C:\Users\HP\source\repos\FastPace\FastPace\obj\Debug\FastPace.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FastPace\FastPace\obj\Debug\FastPace.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FastPace\FastPace\obj\Debug\FastPace.exe
+C:\Users\HP\source\repos\FastPace\FastPace\obj\Debug\FastPace.pdb
